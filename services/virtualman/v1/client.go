@@ -6,8 +6,9 @@ import (
 	"fmt"
 	"net/url"
 	"reflect"
-	"sje-openapi-for-golang/common"
-	"sje-openapi-for-golang/services/virtualman/v1/types"
+
+	"github.com/01appgroup/sje-sdk-golang/common"
+	"github.com/01appgroup/sje-sdk-golang/services/virtualman/v1/types"
 )
 
 const (

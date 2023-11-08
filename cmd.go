@@ -2,10 +2,11 @@ package main
 
 import (
 	"fmt"
-	"sje-openapi-for-golang/common"
-	v1 "sje-openapi-for-golang/services/virtualman/v1"
-	"sje-openapi-for-golang/services/virtualman/v1/types"
 	"sync"
+
+	"github.com/01appgroup/sje-sdk-golang/common"
+	v1 "github.com/01appgroup/sje-sdk-golang/services/virtualman/v1"
+	"github.com/01appgroup/sje-sdk-golang/services/virtualman/v1/types"
 )
 
 func main() {
