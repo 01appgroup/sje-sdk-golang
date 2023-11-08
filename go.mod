@@ -1,3 +1,3 @@
-module sje-openapi-for-golang
+module github.com/01appgroup/sje-sdk-golang
 
 go 1.14
